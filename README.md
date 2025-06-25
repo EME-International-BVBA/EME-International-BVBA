@@ -1,8 +1,7 @@
 <!-- README.md for the E.M.E International SARL GitHub Organization -->
 
-<p align="center">
-  <img src="assets/logo.jpeg" alt="E.M.E International SARL Logo" width="220"/>
-</p>
+![logo](https://github.com/user-attachments/assets/350a4af1-e97f-4d6b-9c86-23ddbf68808a)
+
 
 # E.M.E International SARL
 
